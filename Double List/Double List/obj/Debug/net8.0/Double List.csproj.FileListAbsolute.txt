@@ -1,0 +1,14 @@
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\bin\Debug\net8.0\Double List.exe
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\bin\Debug\net8.0\Double List.deps.json
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\bin\Debug\net8.0\Double List.runtimeconfig.json
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\bin\Debug\net8.0\Double List.dll
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\bin\Debug\net8.0\Double List.pdb
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\Double List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\Double List.AssemblyInfoInputs.cache
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\Double List.AssemblyInfo.cs
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\Double List.csproj.CoreCompileInputs.cache
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\Double List.dll
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\refint\Double List.dll
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\Double List.pdb
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\Double List.genruntimeconfig.cache
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj4\Double List\Double List\obj\Debug\net8.0\ref\Double List.dll
