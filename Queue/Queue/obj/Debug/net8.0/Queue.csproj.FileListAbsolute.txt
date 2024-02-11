@@ -1,0 +1,21 @@
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Single List.deps.json
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Single List.runtimeconfig.json
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Single List.exe
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Queue.exe
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Queue.deps.json
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Queue.dll
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Queue.pdb
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Single List.dll
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\bin\Debug\net8.0\Single List.pdb
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.csproj.AssemblyReference.cache
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.csproj.CopyComplete
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.dll
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\refint\Queue.dll
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.pdb
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+c:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\vj5\Queue\Queue\obj\Debug\net8.0\ref\Queue.dll
