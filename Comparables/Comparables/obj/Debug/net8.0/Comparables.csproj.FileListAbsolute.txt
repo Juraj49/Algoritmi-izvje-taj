@@ -1,0 +1,14 @@
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\bin\Debug\net8.0\Comparables.exe
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\bin\Debug\net8.0\Comparables.deps.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\bin\Debug\net8.0\Comparables.runtimeconfig.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\bin\Debug\net8.0\Comparables.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\bin\Debug\net8.0\Comparables.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\Comparables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\Comparables.AssemblyInfoInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\Comparables.AssemblyInfo.cs
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\Comparables.csproj.CoreCompileInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\Comparables.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\refint\Comparables.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\Comparables.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\Comparables.genruntimeconfig.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparables\Comparables\obj\Debug\net8.0\ref\Comparables.dll
