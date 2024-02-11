@@ -1,0 +1,14 @@
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\bin\Debug\net8.0\Searching.exe
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\bin\Debug\net8.0\Searching.deps.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\bin\Debug\net8.0\Searching.runtimeconfig.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\bin\Debug\net8.0\Searching.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\bin\Debug\net8.0\Searching.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\Searching.AssemblyInfoInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\Searching.AssemblyInfo.cs
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\Searching.csproj.CoreCompileInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\Searching.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\refint\Searching.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\Searching.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\Searching.genruntimeconfig.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Searching\obj\Debug\net8.0\ref\Searching.dll

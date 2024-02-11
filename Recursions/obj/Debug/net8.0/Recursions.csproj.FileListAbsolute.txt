@@ -1,0 +1,14 @@
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\bin\Debug\net8.0\Recursions.exe
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\bin\Debug\net8.0\Recursions.deps.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\bin\Debug\net8.0\Recursions.runtimeconfig.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\bin\Debug\net8.0\Recursions.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\bin\Debug\net8.0\Recursions.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\Recursions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\Recursions.AssemblyInfoInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\Recursions.AssemblyInfo.cs
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\Recursions.csproj.CoreCompileInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\Recursions.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\refint\Recursions.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\Recursions.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\Recursions.genruntimeconfig.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Vj2\Recursions\obj\Debug\net8.0\ref\Recursions.dll
