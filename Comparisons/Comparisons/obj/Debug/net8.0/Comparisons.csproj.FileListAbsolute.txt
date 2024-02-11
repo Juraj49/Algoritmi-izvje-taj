@@ -1,0 +1,14 @@
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\Comparisons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\Comparisons.AssemblyInfoInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\Comparisons.AssemblyInfo.cs
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\Comparisons.csproj.CoreCompileInputs.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\bin\Debug\net8.0\Comparisons.exe
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\bin\Debug\net8.0\Comparisons.deps.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\bin\Debug\net8.0\Comparisons.runtimeconfig.json
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\bin\Debug\net8.0\Comparisons.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\bin\Debug\net8.0\Comparisons.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\Comparisons.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\refint\Comparisons.dll
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\Comparisons.pdb
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\Comparisons.genruntimeconfig.cache
+C:\Users\jure1\Documents\faks 4\Algoritmi\Izvještaji\Comparisons\Comparisons\obj\Debug\net8.0\ref\Comparisons.dll
